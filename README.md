@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # blockchain-developer-bootcamp-final-project
 =======
 # Consensys Blockchain Developer Bootcamp 2021
@@ -19,4 +18,3 @@ Some platforms are a bit complicated to see NFTs that an adresses own, so I'd li
 2. The Dapp searches for which NFTs that address own.
 3. It shows the metadata related for that NFT (if any).
 4. Also it shows details about the NFT.
->>>>>>> master
