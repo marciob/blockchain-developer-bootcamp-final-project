@@ -8,7 +8,7 @@ A NFT explorer to see NFTs that an address owns.
 
 ## Why?
 
-Some platforms are a bit complicated to see NFTs that adresses own, so I'd like to create something simple and right to the point.
+Some platforms are a bit complicated to see NFTs that an adresses own, so I'd like to create something simple and right to the point.
 
 ## Worflow
 
