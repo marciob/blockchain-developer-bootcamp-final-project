@@ -1,5 +1,3 @@
-# blockchain-developer-bootcamp-final-project
-=======
 # Consensys Blockchain Developer Bootcamp 2021
 
 Final project for Consensys Blockchain Developer Bootcamp 2021.
