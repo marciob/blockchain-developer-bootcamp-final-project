@@ -73,7 +73,7 @@ class App extends Component {
 
         <div className="row">
           <div className="col-sm-12">
-            <p>Wallet address: <b>{accounts}</b></p>
+            <p>User wallet address: <b>{accounts}</b></p>
           </div>
         </div>
 
