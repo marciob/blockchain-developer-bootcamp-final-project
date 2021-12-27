@@ -86,6 +86,7 @@ Then you should configure Metamask to connect to your local blockchain run by Ga
 - Open Custom RPC
 - Configure your private network by adding <http://localhost:7545> on the URL and 1337 as a chain ID.
 - Import the first Ganache Account to Metamask by copying the Account Private Key from Ganache and pasting it on Metamask
+- **Stay connected on Ganache Network**
 - Finally you just need to run the following command in your terminal to open the User Interface:
 
 > npm start
