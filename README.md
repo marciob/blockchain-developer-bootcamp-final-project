@@ -33,7 +33,7 @@ The contract is used to receive deposits from a payer wallet untill the total am
 
 ### Screencast using the project
 
-`xxxx`
+<https://youtu.be/huHQftIjwnk>
 
 ### Getting Started
 
