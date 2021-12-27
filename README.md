@@ -112,7 +112,6 @@ Finally you can run the following command to generate the build artifacts of you
 
 ### Deployed application URL
 
-`xxxxxx`
 <https://escrow-eth.herokuapp.com/>
 
 ### Ethereum account to receive NFT certification
