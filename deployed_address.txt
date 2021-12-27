@@ -1,0 +1,4 @@
+Escrow.sol smart contract
+
+Testnet address: 0x64450D7AfbFa640293158302655775a054226102
+Network where it was deployed: Rinkeby
