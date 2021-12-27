@@ -112,9 +112,9 @@ Finally you can run the following command to generate the build artifacts of you
 
 ### Deployed application URL
 
-<https://escrow-eth.herokuapp.com/>
-
 Note: **stay connected on RINKEBY Test Network**
+
+<https://escrow-eth.herokuapp.com/>
 
 ### Ethereum account to receive NFT certification
 
