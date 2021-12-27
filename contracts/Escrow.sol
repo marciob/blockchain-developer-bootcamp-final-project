@@ -7,15 +7,15 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 /// @notice You can use this contract for only the most basic simulation
 
 contract Escrow is ReentrancyGuard {
-    /// @dev payer is the wallet address that will deposit money
-    /// @dev payee is the wallet address that will receive the deposited money after it be released by the lawyer
-    /// @dev lawyer is the wallet address that will be able to released the money and send it to payee address
-    /// @dev amount is the amount to be paid
     address public payer;
     address payable public payee;
     address public lawyer;
     uint256 public amount;
 
+    /// @param _payer is the wallet address that will deposit money
+    /// @param _payee is the wallet address that will receive the deposited money after it be released by the lawyer
+    /// @dev lawyer variable is the wallet address that will be able to released the money and send it to payee address
+    /// @param _amount is the amount to be paid
     constructor(
         address _payer,
         address payable _payee,

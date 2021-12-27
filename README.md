@@ -109,7 +109,7 @@ Finally you can run the following command to generate the build artifacts of you
 
 ### Contract Address on Rinkeby
 
-**Rinkeby**: `0x64450d7afbfa640293158302655775a054226102`
+**Rinkeby**: `0x89f5f7f7F4e748107f517810cCC720F088365C95`
 
 ### Deployed application URL
 
