@@ -54,7 +54,7 @@ class App extends Component {
 
   render() {
     if (!this.state.web3) {
-      return <div>Loading... Please connect your Metamask on RINKEBY Test Network!</div>;
+      return <div>Loading... Please connect your Metamask on RINKEBY Test Network! (or GANACHE, if using local deployment)</div>;
     }
 
     const { balance } = this.state;
