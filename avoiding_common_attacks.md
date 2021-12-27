@@ -102,4 +102,4 @@
 
 > Avoid the use of transfer() and send() and do not otherwise specify a fixed amount of gas when performing calls. Use .call.value(...)("") instead. Use the checks-effects-interactions pattern and/or reentrancy locks to prevent reentrancy attacks.
 
-- transfer() and send() methods are not being used.
+- `transfer()` and `send()` methods are not being used.

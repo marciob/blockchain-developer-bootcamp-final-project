@@ -108,7 +108,7 @@ Finally you can run the following command to generate the build artifacts of you
 
 ### Contract Address on Rinkeby
 
-**Rinkeby**: `xxxxxxx`
+**Rinkeby**: `0x64450d7afbfa640293158302655775a054226102`
 
 ### Deployed application URL
 
@@ -118,41 +118,6 @@ Finally you can run the following command to generate the build artifacts of you
 ### Ethereum account to receive NFT certification
 
 `0xe8F866494A09126d83cF13A71C007aB4D5c5C3eA`
-
-### Project Struct
-
-`+─────────────────────────────────────────────────────────────────────────────────────────────────────────────+
-│             Folder structure                                        Description                             │
-├─────────────────────────────────────────────────────────────────────────────────────────────────────────────+
-│                                                                                                             │
-│     ├── contracts                                Contracts folder.                                          │
-│     │   ├── Escrow.sol                           Escrow contract.                                           │
-│     │   └── Migration.sol                        Migration contract.                                        │
-│     ├── migrations                               Migration folder.                                          │
-│     │   ├── 1_initial_migration.js               Initial migration file to help on deployment               │
-│     │   └── 2_deploy_contracts.js                Deployment file                                            │
-│     ├── public                                   Folder with files used on frontend deployment.             │
-│     │   ├── favicon.ico                          Favicon to webpage                                         │
-│     │   ├── index.html                           Index HTML page                                            │
-│     │   └── manifest.json                        Tell the brownser simple information about the page        │
-│     ├── src                                      Source code.                                               │
-│     │   ├── contracts                            Folder with contracts ABI files                            │
-│     │       ├── Escrow.json                      Escrow ABI file                                            │
-│     │       └── Migrations.json                  Migrations ABI file                                        │
-│     │   ├── App.js                               Main project component.                                    │
-│     │   ├── index.js                             Project entry point.                                       │
-│     │   └── utils.js                             Snippets to handle with web3 injection                     │
-│     ├── test                                     Test directory.                                            │
-│     │   └── escrow.js                            Test for Escrow.sol contract.                              │
-│     ├── avoiding_common_attacks.md               List of smart contract weaknesses.                         │
-│     ├── design_attern_decisions.md               Explanation of why the design patterns where used.         │
-│     ├── package-lock.json                        Project dependencies detailed.                             │
-│     ├── package.json                             Project dependencies.                                      │
-│     ├── README.md                                Description and instruction about the project.             │
-│     ├── deployed_address.txt                     Testnet address and network where it was deployed          │
-│     ├── final-project-checklist.txt              Checklist for the final project                            │
-│     └── truffle-config.js                        Truffle configuration.                                     │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────────────+`
 
 ### Technology stack
 
