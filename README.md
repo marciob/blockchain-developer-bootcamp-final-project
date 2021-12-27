@@ -114,6 +114,8 @@ Finally you can run the following command to generate the build artifacts of you
 
 <https://escrow-eth.herokuapp.com/>
 
+Note: **stay connected on RINKEBY Test Network**
+
 ### Ethereum account to receive NFT certification
 
 `0xe8F866494A09126d83cF13A71C007aB4D5c5C3eA`
