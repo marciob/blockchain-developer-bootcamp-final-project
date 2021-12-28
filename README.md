@@ -99,7 +99,9 @@ In order to deploy your smart contract, you must create your .env file and speci
 
 - `PRIVATE_KEYS` --> Private Key of the account you are using to deploy (typically the first one in the list of Ganache)
 - `INFURA_API_KEY` --> API key provided by Infura: <https://infura.io>
-Then, you will need to run the following command (let's use the testnet Rinkeby in this example, remember to request some Ether for your account using a faucet):
+Then, you will need to run the following command (let's use the testnet Rinkeby in this example, remember to request some Ether for your account using a faucet)
+
+Command to deploy it on Rinkeby Test Network:
 
 > truffle migrate --network rinkeby
 
