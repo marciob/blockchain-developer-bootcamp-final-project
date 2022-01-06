@@ -117,6 +117,10 @@ Finally you can run the following command to generate the build artifacts of you
 
 Note: **stay connected on RINKEBY Test Network**
 
+<https://marciob.github.io/blockchain-developer-bootcamp-final-project>
+
+or
+
 <https://escrow-eth.herokuapp.com/>
 
 ### Ethereum account to receive NFT certification
